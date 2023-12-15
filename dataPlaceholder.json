@@ -1,0 +1,101 @@
+{
+    "playerLifes":3,
+    "correctAnswers":0,
+    "wrongAnswers":0,
+    "earnedPoints":0,
+    "randomQuestions":true,
+    "questions":[
+        {
+        "questionText": "Ma quindi lui è Giorgio e lei è Lampino?",
+        "isAnswered":false,
+        "points":10,
+        "answers": [
+            {
+                "answerText":"Si",
+                "correct":false
+            },
+            {
+                "answerText": "No",
+                "correct":false
+            },
+            {
+                "answerText":"Forse",
+                "correct":false
+            },
+            {
+                "answerText":"Il cane non si chiama Giorgio",
+                "correct":true
+            }
+        ]   
+        },
+        {
+            "questionText": "Fa schiuma ma non è sapone",
+            "isAnswered":false,
+            "points":10,
+            "answers": [
+                {
+                    "answerText":"Il mare",
+                    "correct":false
+                },
+                {
+                    "answerText": "La Birra",
+                    "correct":false
+                },
+                {
+                    "answerText":"Il dentifricio",
+                    "correct":false
+                },
+                {
+                    "answerText":"La Borra",
+                    "correct":true
+                }
+            ]   
+        },
+        {
+            "questionText": "Vinsero battaglie grazie alla loro...",
+            "isAnswered":false,
+            "points":10,
+            "answers": [
+                {
+                    "answerText":"fresca",
+                    "correct":false
+                },
+                {
+                    "answerText": "frasca",
+                    "correct":false
+                },
+                {
+                    "answerText":"frisella",
+                    "correct":false
+                },
+                {
+                    "answerText":"f*ga",
+                    "correct":true
+                }
+            ]   
+        },
+        {
+            "questionText": "Come si chiamava la donna-robot nel famoso film di sordi dell'ottanta?",
+            "isAnswered":false,
+            "points":10,
+            "answers": [
+                {
+                    "answerText":"Duccio",
+                    "correct":false
+                },
+                {
+                    "answerText": "per me è la cipolla",
+                    "correct":true
+                },
+                {
+                    "answerText":"Mara Maionchi",
+                    "correct":false
+                },
+                {
+                    "answerText":"Giorgia Meloni",
+                    "correct":false
+                }
+            ]   
+        } 
+    ]
+}
