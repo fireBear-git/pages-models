@@ -95,7 +95,29 @@
                     "answerText":"Giorgia Meloni",
                     "correct":false
                 }
-            ]   
+            ]
         } 
     ]
+    "images":[
+        {
+            "reference":"Player",
+            "url":"https://quizjump.grifomultimedia.eu/bears.png"
+        },
+        {
+            "reference":"Platform",
+            "url":"https://quizjump.grifomultimedia.eu/platform-hill.png"
+        },
+        {
+            "reference":"QuestionMark",
+            "url":"https://quizjump.grifomultimedia.eu/question_mark.png"
+        },
+        {
+            "reference":"Background",
+            "url":"https://quizjump.grifomultimedia.eu/bg-hill.png"
+        },
+        {
+            "reference":"Logo-MainMenu",
+            "url":"https://quizjump.grifomultimedia.eu/grifo.png"
+        }
+    ]     
 }
